@@ -1,0 +1,8 @@
+# Données réelles jamais publiées
+data_local/
+
+# Fichiers système
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
